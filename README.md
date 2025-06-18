@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on ... Giftqueue - The Social Registry.
 - 🌱 I’m currently learning ... How to scale applications as a solo developer.
-- 👯 I’m looking to collaborate on ... open source or Web3 decentralized software.
-- 🤔 I’m looking for help with ... learning more about blockchain technology.
+- 👯 I’m looking to collaborate on ... open source software.
 - 💬 Ask me about ... Giftqueue - The Social Registry!
 - 📫 How to reach me: ... https://zanderambrose.dev/
 - 😄 Pronouns: ... He/Him
